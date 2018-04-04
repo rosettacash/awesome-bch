@@ -31,6 +31,10 @@
 
 - [BitcoinABC](https://www.bitcoinabc.org/)
 
+## Wallet
+
+- [ElectronCash](https://electroncash.org/)
+
 ## Explorer
 
 - [Blockchair](https://blockchair.com/)
