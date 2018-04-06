@@ -5,6 +5,7 @@
 - [Spec](#spec)
 - [Paper](#paper)
 - [Video](#video)
+- [Project](#project)
 - [Node](#node)
 - [Wallet](#wallet)
 - [Explorer](#explorer)
@@ -26,6 +27,10 @@
 ## Video
 
 - [Satoshi's Vision Conference](https://www.youtube.com/channel/UCJHGWgmZdkQlZA28fuGfNmA/videos)
+
+## Project
+
+- [Cash Shuffle](https://cashshuffle.com/)
 
 ## Node
 
