@@ -35,6 +35,7 @@
 ## Node
 
 - [BitcoinABC](https://www.bitcoinabc.org/)
+- [ParityBitcoin](https://github.com/paritytech/parity-bitcoin)
 
 ## Wallet
 
