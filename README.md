@@ -33,6 +33,7 @@
 ## Project
 
 - [Cash Shuffle](https://cashshuffle.com/)
+- [gitCash](https://gitcash.io)
 
 ## Node
 
