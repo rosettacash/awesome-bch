@@ -34,6 +34,7 @@
 
 - [Cash Shuffle](https://cashshuffle.com/)
 - [gitCash](https://gitcash.io)
+- [Memo](https://memo.cash/)
 
 ## Node
 
