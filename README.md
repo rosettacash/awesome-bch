@@ -25,6 +25,7 @@
 - [Simple Loops](https://files.acrobat.com/a/preview/0981025b-60e3-4bb3-bd2b-c0d5241e181d)
 - [From Bitcoin to Bitcoin Cash: a network analysis](https://arxiv.org/pdf/1804.02350v1.pdf)
 - [Turing Complete Bitcoin Script White Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160279)
+- [bloXroute: A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2018/03/bloXroute-whitepaper.pdf)
 
 ## Video
 
