@@ -21,6 +21,7 @@
 ## Paper
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://blockchair.com/bitcoin/whitepaper/bitcoin.pdf)
+- [The Satoshi Nakamoto Archive](https://nakamotostudies.org/)
 - [An analysis of Bitcoin OP_RETURN metadata](https://arxiv.org/pdf/1702.01024.pdf)
 - [Scaling Bitcoin and what some will do to stop this](https://medium.com/@ProfFaustus/scaling-bitcoin-and-what-some-will-do-to-stop-this-a375abcbf5a6)
 - [Simple Loops](https://files.acrobat.com/a/preview/0981025b-60e3-4bb3-bd2b-c0d5241e181d)
