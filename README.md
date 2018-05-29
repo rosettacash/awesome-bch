@@ -17,6 +17,7 @@
 - [Bitcoin Cash Protocol Development](https://cash.coin.dance/development)
 - [BitcoinCash Wiki](https://develop.cash)
 - [Nakasendo SDK](https://github.com/nakasendo/nakasendo)
+- [Bitcoin Protocol Identifier](http://media.lokad.com/bitcoin/opreturn-prefix-utility.html)
 
 ## Paper
 
