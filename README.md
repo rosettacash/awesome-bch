@@ -49,6 +49,7 @@
 ## Wallet
 
 - [ElectronCash](https://electroncash.org/)
+- [HandCash](https://handcash.io/)
 
 ## Explorer
 
