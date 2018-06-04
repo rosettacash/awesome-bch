@@ -39,6 +39,7 @@
 - [Cash Shuffle](https://cashshuffle.com/)
 - [gitCash](https://gitcash.io)
 - [Memo](https://memo.cash/)
+- [Toku Protocol](https://docs.google.com/document/d/1mom6TCow7elw1qyCT8r71D_XOMWrY_muAGgaethZcmc/edit)
 
 ## Node
 
