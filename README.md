@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Article](#article)
 - [Develop](#develop)
 - [Paper](#paper)
 - [Video](#video)
@@ -10,6 +11,10 @@
 - [Wallet](#wallet)
 - [Explorer](#explorer)
 
+## Article
+
+- [What roll will Bitcoin Cash have over the next two years](https://www.quora.com/What-role-will-Bitcoin-Cash-BCH-have-over-the-next-two-years/answer/Laeeth-Isharc?share=296cc9dd&srid=35gE)
+- [Evidence and Choice of Law](https://www.yours.org/content/evidence-and-choice-of-law-12c1f25b99ba)
 
 ## Develop
 
