@@ -9,12 +9,14 @@
 - [Project](#project)
 - [Node](#node)
 - [Wallet](#wallet)
+- [Visualization](#visualization)
 - [Explorer](#explorer)
 
 ## Article
 
 - [What roll will Bitcoin Cash have over the next two years](https://www.quora.com/What-role-will-Bitcoin-Cash-BCH-have-over-the-next-two-years/answer/Laeeth-Isharc?share=296cc9dd&srid=35gE)
 - [Evidence and Choice of Law](https://www.yours.org/content/evidence-and-choice-of-law-12c1f25b99ba)
+- [Lightning is malleable… Steel is not](https://medium.com/@craig_10243/lightning-is-malleable-steel-is-not-4e68bfdef31)
 
 ## Develop
 
@@ -60,6 +62,11 @@
 
 - [ElectronCash](https://electroncash.org/)
 - [HandCash](https://handcash.io/)
+
+## Visualization
+
+- [Bitcoin Subway](https://bitcoinsubway.cash/)
+- [TX highway](https://txhighway.com/)
 
 ## Explorer
 
