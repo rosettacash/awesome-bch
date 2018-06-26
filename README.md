@@ -19,6 +19,7 @@
 
 ## Article
 
+- [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [What roll will Bitcoin Cash have over the next two years](https://www.quora.com/What-role-will-Bitcoin-Cash-BCH-have-over-the-next-two-years/answer/Laeeth-Isharc?share=296cc9dd&srid=35gE)
 - [Evidence and Choice of Law](https://www.yours.org/content/evidence-and-choice-of-law-12c1f25b99ba)
 - [Lightning is malleable… Steel is not](https://medium.com/@craig_10243/lightning-is-malleable-steel-is-not-4e68bfdef31)
