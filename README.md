@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Patent](#patent)
 - [Article](#article)
 - [Develop](#develop)
 - [Paper](#paper)
@@ -11,6 +12,10 @@
 - [Wallet](#wallet)
 - [Visualization](#visualization)
 - [Explorer](#explorer)
+
+## Patent
+
+- [Determining a common secret for the secure exchange of information and hierarchical, deterministic cryptographic keys ](https://worldwide.espacenet.com/publicationDetails/biblio?CC=TW&NR=201733303A&KC=A&FT=D&ND=4&date=20170916&DB=&locale=en_EP)
 
 ## Article
 
