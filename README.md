@@ -24,6 +24,7 @@
 - [What roll will Bitcoin Cash have over the next two years](https://www.quora.com/What-role-will-Bitcoin-Cash-BCH-have-over-the-next-two-years/answer/Laeeth-Isharc?share=296cc9dd&srid=35gE)
 - [Evidence and Choice of Law](https://www.yours.org/content/evidence-and-choice-of-law-12c1f25b99ba)
 - [Lightning is malleable… Steel is not](https://medium.com/@craig_10243/lightning-is-malleable-steel-is-not-4e68bfdef31)
+- [On markets and pre-consensus](https://www.yours.org/content/on-markets-and-pre-consensus-4454add1bfbe)
 
 ## Develop
 
