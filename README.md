@@ -19,6 +19,7 @@
 
 ## Article
 
+- [Bitcoin: A (Decentralized) Complex Social Network](https://www.yours.org/content/bitcoin--a--decentralized--complex-social-network-0de889501376)
 - [Bitcoin and banking... part 1](https://www.yours.org/content/bitcoin-and-banking-part-1-7fa36fb71e50)
 - [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [What roll will Bitcoin Cash have over the next two years](https://www.quora.com/What-role-will-Bitcoin-Cash-BCH-have-over-the-next-two-years/answer/Laeeth-Isharc?share=296cc9dd&srid=35gE)
