@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Script](#script)
 - [Patent](#patent)
 - [Article](#article)
 - [Develop](#develop)
@@ -13,6 +14,14 @@
 - [Visualization](#visualization)
 - [Explorer](#explorer)
 
+## Script
+
+- [Tree Signatures](https://blockstream.com/2015/08/24/treesignatures.html#h.mxbj7rz0xoe5)
+- [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
+- [Simple Loops](https://files.acrobat.com/a/preview/0981025b-60e3-4bb3-bd2b-c0d5241e181d)
+- [Turing Complete Bitcoin Script White Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160279)
+- [Merklized abstract syntax tree](https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f)
+
 ## Patent
 
 - [Determining a common secret for the secure exchange of information and hierarchical, deterministic cryptographic keys ](https://worldwide.espacenet.com/publicationDetails/biblio?CC=TW&NR=201733303A&KC=A&FT=D&ND=4&date=20170916&DB=&locale=en_EP)
@@ -21,7 +30,6 @@
 
 - [Bitcoin: A (Decentralized) Complex Social Network](https://www.yours.org/content/bitcoin--a--decentralized--complex-social-network-0de889501376)
 - [Bitcoin and banking... part 1](https://www.yours.org/content/bitcoin-and-banking-part-1-7fa36fb71e50)
-- [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [What roll will Bitcoin Cash have over the next two years](https://www.quora.com/What-role-will-Bitcoin-Cash-BCH-have-over-the-next-two-years/answer/Laeeth-Isharc?share=296cc9dd&srid=35gE)
 - [Evidence and Choice of Law](https://www.yours.org/content/evidence-and-choice-of-law-12c1f25b99ba)
 - [Lightning is malleable… Steel is not](https://medium.com/@craig_10243/lightning-is-malleable-steel-is-not-4e68bfdef31)
@@ -42,9 +50,7 @@
 - [The Satoshi Nakamoto Archive](https://nakamotostudies.org/)
 - [An analysis of Bitcoin OP_RETURN metadata](https://arxiv.org/pdf/1702.01024.pdf)
 - [Scaling Bitcoin and what some will do to stop this](https://medium.com/@ProfFaustus/scaling-bitcoin-and-what-some-will-do-to-stop-this-a375abcbf5a6)
-- [Simple Loops](https://files.acrobat.com/a/preview/0981025b-60e3-4bb3-bd2b-c0d5241e181d)
 - [From Bitcoin to Bitcoin Cash: a network analysis](https://arxiv.org/pdf/1804.02350v1.pdf)
-- [Turing Complete Bitcoin Script White Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160279)
 - [bloXroute: A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2018/03/bloXroute-whitepaper.pdf)
 - [Canonical Transaction Ordering for Bitcoin](https://blog.vermorel.com/pdf/canonical-tx-ordering-2018-06-12.pdf)
 
