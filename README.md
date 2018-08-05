@@ -20,7 +20,8 @@
 - [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Simple Loops](https://files.acrobat.com/a/preview/0981025b-60e3-4bb3-bd2b-c0d5241e181d)
 - [Turing Complete Bitcoin Script White Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160279)
-- [Merklized abstract syntax tree](https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f)
+- [Merklized abstract syntax tree](http://www.mit.edu/~jlrubin/public/pdfs/858report.pdf)
+- [What is Merklized abstract syntax tree](https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f)
 
 ## Patent
 
