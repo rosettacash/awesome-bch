@@ -22,6 +22,7 @@
 
 ## Script
 
+- [THE URGENT CASE FOR EDI STANDARDS](https://pdfs.semanticscholar.org/ad45/2b3d4f1fba94ee17d79dcff277e6181560e3.pdf)
 - [Tree Signatures](https://blockstream.com/2015/08/24/treesignatures.html#h.mxbj7rz0xoe5)
 - [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Simple Loops](https://files.acrobat.com/a/preview/0981025b-60e3-4bb3-bd2b-c0d5241e181d)
