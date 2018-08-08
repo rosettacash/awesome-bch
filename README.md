@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Economics](#economics)
 - [Script](#script)
 - [Patent](#patent)
 - [Article](#article)
@@ -13,6 +14,11 @@
 - [Wallet](#wallet)
 - [Visualization](#visualization)
 - [Explorer](#explorer)
+
+
+## Economics
+
+- [Adam Smith's Essentials: On Trust, Faith, and Free Markets](https://surface.syr.edu/cgi/viewcontent.cgi?article=1134&context=ecn)
 
 ## Script
 
