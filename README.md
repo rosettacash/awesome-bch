@@ -4,6 +4,7 @@
 
 - [Economics](#economics)
 - [Script](#script)
+- [Signature](#signature)
 - [Patent](#patent)
 - [Article](#article)
 - [Develop](#develop)
@@ -29,6 +30,10 @@
 - [Turing Complete Bitcoin Script White Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3160279)
 - [Merklized abstract syntax tree](http://www.mit.edu/~jlrubin/public/pdfs/858report.pdf)
 - [What is Merklized abstract syntax tree](https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f)
+
+## Signature
+
+- [Short signatures from the Weil pairing](https://www.iacr.org/archive/asiacrypt2001/22480516.pdf)
 
 ## Patent
 
