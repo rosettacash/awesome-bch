@@ -66,6 +66,7 @@
 - [From Bitcoin to Bitcoin Cash: a network analysis](https://arxiv.org/pdf/1804.02350v1.pdf)
 - [bloXroute: A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2018/03/bloXroute-whitepaper.pdf)
 - [Canonical Transaction Ordering for Bitcoin](https://blog.vermorel.com/pdf/canonical-tx-ordering-2018-06-12.pdf)
+- [Investigation of the Potential for Using the Bitcoin Blockchain as the World's Primary Infrastructure for Internet Commerce](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3065857)
 
 ## Video
 
