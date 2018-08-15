@@ -11,7 +11,7 @@
 - [Paper](#paper)
 - [Video](#video)
 - [Project](#project)
-- [Node](#node)
+- [Implementation](#Implementation)
 - [Wallet](#wallet)
 - [Visualization](#visualization)
 - [Explorer](#explorer)
@@ -83,12 +83,13 @@
 - [read.cash: monitor addresses](https://read.cash/)
 - [BCH Stress Test](https://stresstestbitcoin.cash/)
 
-## Node
+## Implementation
 
 - [BCH nodes](https://cashnodes.io/)
 - [BitcoinABC](https://www.bitcoinabc.org/)
 - [ParityBitcoin](https://github.com/paritytech/parity-bitcoin)
 - [Bcash](https://github.com/bcoin-org/bcash)
+- [Lua Bitcoin](https://github.com/nmap/nmap/blob/master/nselib/bitcoin.lua)
 
 ## Wallet
 
