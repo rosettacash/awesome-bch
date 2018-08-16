@@ -67,6 +67,7 @@
 - [bloXroute: A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2018/03/bloXroute-whitepaper.pdf)
 - [Canonical Transaction Ordering for Bitcoin](https://blog.vermorel.com/pdf/canonical-tx-ordering-2018-06-12.pdf)
 - [Investigation of the Potential for Using the Bitcoin Blockchain as the World's Primary Infrastructure for Internet Commerce](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3065857)
+- [Information Propagation in the Bitcoin Network](https://www.tik.ee.ethz.ch/file/49318d3f56c1d525aabf7fda78b23fc0/P2P2013_041.pdf)
 
 ## Video
 
