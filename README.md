@@ -69,6 +69,7 @@
 - [Investigation of the Potential for Using the Bitcoin Blockchain as the World's Primary Infrastructure for Internet Commerce](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3065857)
 - [Information Propagation in the Bitcoin Network](https://www.tik.ee.ethz.ch/file/49318d3f56c1d525aabf7fda78b23fc0/P2P2013_041.pdf)
 - [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)
+- [Securing Bitcoin wallets via a new DSA/ECDSA threshold signature scheme](http://www.cs.princeton.edu/~stevenag/threshold_sigs.pdf)
 
 ## Video
 
