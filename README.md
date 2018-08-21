@@ -8,6 +8,7 @@
 - [Patent](#patent)
 - [Article](#article)
 - [Develop](#develop)
+- [Book](#book)
 - [Paper](#paper)
 - [Video](#video)
 - [Project](#project)
@@ -56,6 +57,10 @@
 - [BitcoinCash Wiki](https://develop.cash)
 - [Nakasendo SDK](https://github.com/nakasendo/nakasendo)
 - [Bitcoin Protocol Identifier](http://media.lokad.com/bitcoin/opreturn-prefix-utility.html)
+
+## Book
+
+- [THE UNDOCUMENTED INTERNALS OF THE BITCOIN ETHEREUM AND BLOCKCHAINS](https://books.google.com/books?id=_YtjDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 
 ## Paper
 
